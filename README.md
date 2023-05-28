@@ -49,7 +49,7 @@ console.log(_moment2.default.unix('1500514362').format('DD.MM.YYYY HH:mm:ss'));
 ## Файл name.js до выполнения транспиляции:
 
 ```js
-
+export default 'D. O. Isaichev';
 ```
 
 ## Файл name.js после выполнения транспиляции:
